@@ -1,0 +1,16 @@
+Partlist exported from C:/Users/sloanap/Dropbox/R2/PCBs/Eagle Projects/RC Controller/Micro_RC_Receiver/Micro RC Receiver.sch at 31/08/2018 15:57
+
+Qty Value           Device             Package      Parts                    Description                
+1                   NRF24L01SMD        NRF24L01_SMD IC1                      2.4GHz Radio Module        
+5                   PINHD-1X2          1X02         JP1, JP2, JP3, JP9, JP10 PIN HEADER                 
+4                   PINHD-1X3          1X03         JP4, JP5, JP6, JP7       PIN HEADER                 
+1                   PINHD-1X4          1X04         JP8                      PIN HEADER                 
+3   100nF 50V       C-EUC0805          C0805        C2, C5, C6               CAPACITOR, European symbol 
+2   10k             R-EU_R0805         R0805        R1, R3                   RESISTOR, European symbol  
+3   10uF            10UF-16V-10%(TANT) EIA3216      C1, C3, C4               CAP-00811                  
+1   20k             R-EU_R0805         R0805        R2                       RESISTOR, European symbol  
+1   ATMEGA328P_TQFP ATMEGA328P_TQFP    TQFP32-08    U2                                                  
+1   CSTCC8M00G53-R0 CSTCC8M00G53-R0    CSTCC        Q1                       Resonator                  
+1   MIC5205-3.3     MIC52053.3V        SOT23-5      U1                       MIC5205 150mA vreg         
+1   OSHW-LOGOS      OSHW-LOGOS         OSHW-LOGO-S  LOGO1                    Open Source Hardware Logo  
+1   TB6612FNG       TB6612FNG          SSOP24       IC2                                                 

@@ -1,0 +1,28 @@
+Partlist exported from C:/Users/sloanap/Dropbox/R2/PCBs/Eagle Projects/RC Controller/RC_Transmitter/Micro RC Transmitter.sch at 11/07/2018 14:54
+
+Qty Value                 Device                Package              Parts          Description                                                                                                PROD_ID     VALUE
+2                         LED3MM                LED3MM               D4, D5         LEDs                                                                                                       DIO-08794        
+2                         LED5MM                LED5MM               D2, D3         LEDs                                                                                                                        
+1                         PINHD-1X3             1X03                 JP2            PIN HEADER                                                                                                                  
+1                         PINHD-1X4             1X04                 JP1            PIN HEADER                                                                                                                  
+1   0.96"_I2C_OLED2       0.96"_I2C_OLED2       0.96"_I2C_OLED_2     U4             http://www.ebay.ch/itm/White-0-96-I2C-IIC-Serial-128X64-OLED-LCD-LED-Display-Module-Arduino-/141676867755?                  
+1   100nF                 C-EUC0805             C0805                C5             CAPACITOR, European symbol                                                                                                  
+1   100uF                 CPOL-EUE2.5-7         E2,5-7               C3             POLARIZED CAPACITOR, European symbol                                                                                        
+1   10R                   R-EU_0207/10          0207/10              R4             RESISTOR, European symbol                                                                                                   
+1   10k                   R-EU_0207/10          0207/10              R2             RESISTOR, European symbol                                                                                                   
+1   10uF                  10UF-16V-10%(TANT)    EIA3216              C4             CAP-00811                                                                                                  CAP-00811   10uF 
+1   1117-3.3              LM1117MPX-3.3         SOT223               IC2                                                                                                                                        
+3   150R                  R-EU_0207/10          0207/10              R3, R5, R6     RESISTOR, European symbol                                                                                                   
+1   1N4004                1N4004                DO41-10              D1             DIODE                                                                                                                       
+1   1k                    R-EU_0207/10          0207/10              R7             RESISTOR, European symbol                                                                                                   
+1   20k                   R-EU_0207/10          0207/10              R1             RESISTOR, European symbol                                                                                                   
+2   3.3uF                 CPOL-EUB45181A        B45181A              C1, C2         POLARIZED CAPACITOR, European symbol                                                                                        
+1   4X_AA_BATTERY_HOLDER  4X_AA_BATTERY_HOLDER  4X_AA_BATTERY_HOLDER G1             http://www.ebay.ch/itm/401053643951?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT                              
+1   ARDUINO_PRO_MINI      ARDUINO_PRO_MINI      ARDUINO_PRO_MINI     U3                                                                                                                                         
+1   BC337-25              BC337-25              TO92                 Q1             NPN Transistor                                                                                                              
+1   EG1213                EG1213                EG1213               S1             E-Switch right-angle slide SPDT Part #EG1213                                                                                
+2   JOYSTICKPTH           JOYSTICKPTH           JOYSTICK             U1, U2         Thumb Joystick                                                                                                              
+4   MOUNT-PAD-ROUND3.2    MOUNT-PAD-ROUND3.2    3,2-PAD              H1, H2, H3, H4 MOUNTING PAD, round                                                                                                         
+1   NRF24L01+             NRF24L01              NRF24L01             IC1            2.4GHz Radio Module                                                                                                         
+1   OSHW-LOGOM            OSHW-LOGOM            OSHW-LOGO-M          LOGO1          Open Source Hardware Logo                                                                                                   
+4   SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH          S2, S3, S4, S5 Various NO switches- pushbuttons, reed, etc                                                                 SWCH-08441      

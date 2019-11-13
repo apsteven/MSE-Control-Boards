@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"PROD_ID";"SPICEPREFIX";"VALUE";
+"3";"";"31-XX";"B3F-31XX";"S2, S3, S4";"OMRON SWITCH";"";"B3F-3100";"959704";"36M3582";"";"";"";
+"1";"";"LED3MM";"LED3MM";"D4";"LEDs";"";"";"";"";"DIO-08794";"";"";
+"1";"";"PINHD-1X4";"1X04";"JP1";"PIN HEADER";"";"";"";"";"";"";"";
+"1";"100nF";"C-EUC0805";"C0805";"C5";"CAPACITOR, European symbol";"";"";"";"";"";"";"";
+"1";"10uF";"10UF-16V-10%(TANT)";"EIA3216";"C4";"CAP-00811";"";"";"";"";"CAP-00811";"";"10uF";
+"1";"1117-3.3";"LM1117MPX-3.3";"SOT223";"IC2";"";"";"";"";"";"";"";"";
+"1";"150R";"R-EU_R0805";"R0805";"R5";"RESISTOR, European symbol";"";"";"";"";"";"R";"";
+"1";"1N4004";"DIODE-DO-214AC";"DO-214AC";"D1";"DIODE";"";"";"";"";"";"";"";
+"1";"3.3uF";"CPOL-EUB45181A";"B45181A";"C1";"POLARIZED CAPACITOR, European symbol";"";"";"";"";"";"";"";
+"1";"4X_AA_BATTERY_HOLDER";"4X_AA_BATTERY_HOLDER";"4X_AA_BATTERY_HOLDER";"G1";"http://www.ebay.ch/itm/401053643951?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT";"";"";"";"";"";"";"";
+"1";"ARDUINO_PRO_MINI";"ARDUINO_PRO_MINI";"ARDUINO_PRO_MINI";"U3";"";"";"";"";"";"";"";"";
+"1";"JOYSTICKPTH";"JOYSTICKPTH";"JOYSTICK";"U1";"Thumb Joystick";"";"";"";"";"";"";"";
+"4";"MOUNT-PAD-ROUND3.2";"MOUNT-PAD-ROUND3.2";"3,2-PAD";"H1, H2, H3, H4";"MOUNTING PAD, round";"";"";"";"";"";"";"";
+"1";"NRF24L01+";"NRF24L01";"NRF24L01";"IC1";"2.4GHz Radio Module";"";"";"";"";"";"";"";
+"1";"OS102011MA1QN1";"OS102011MA1QN1";"OS102011MA1QN1";"S1";"E-Switch right-angle slide SPDT Part #EG1213";"";"";"";"";"";"";"";
+"1";"OSHW-LOGOM";"OSHW-LOGOM";"OSHW-LOGO-M";"LOGO1";"Open Source Hardware Logo";"";"";"";"";"";"";"";
